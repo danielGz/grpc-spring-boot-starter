@@ -1,4 +1,4 @@
-# The Repo transfer to [grpc-ecosystem/grpc-spring](https://github.com/grpc-ecosystem/grpc-spring)
+# The Repo [transfer to grpc-ecosystem/grpc-spring](https://github.com/grpc-ecosystem/grpc-spring](https://github.com/grpc-ecosystem/grpc-spring/discussions/986))
 **Record this moment**
 ![image](https://github.com/yidongnan/grpc-spring-boot-starter/assets/3163314/6f4403d7-6061-4f03-b171-6a86893629cf)
 
